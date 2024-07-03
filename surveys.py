@@ -14,7 +14,7 @@ class Question:
 
 class Survey:
     """Questionnaire."""
-myenv\Scripts\activate
+
     def __init__(self, title, instructions, questions):
         """Create questionnaire."""
 
